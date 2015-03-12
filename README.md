@@ -1,2 +1,2 @@
 # game-of-life
-Based on Conway's game of life, made for Comp 211
+Based on Conway's Game of Life
